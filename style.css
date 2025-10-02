@@ -27,7 +27,8 @@ header {
 }
 
 .characters {
-  display: flex;           
+  display: flex;  
+  margin-top: 20px;
   gap: 20px;
   margin-bottom: 20px;
 }
